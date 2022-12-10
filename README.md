@@ -1,2 +1,1 @@
-# MerryChristmasToJessie
-It‘s a blessing.
+Refer to https://github.com/iancj/Merry-Christmas
