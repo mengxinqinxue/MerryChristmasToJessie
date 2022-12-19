@@ -64,11 +64,11 @@ $(function() {
         $mask1.addClass("show");
         setTimeout(function() {
             $mask2.addClass("show");
-        }, 2000);
+        }, 4500);
         setTimeout(function() {
             $mask3.addClass("show");
             animates.step6();
-        }, 4000);
+        }, 6500);
     }
 
     animates.step6 = function() {
